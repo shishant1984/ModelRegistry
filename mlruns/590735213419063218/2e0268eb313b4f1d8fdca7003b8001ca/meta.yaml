@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/2e0268eb313b4f1d8fdca7003b8001ca/artifacts
+end_time: 1729499064641
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 2e0268eb313b4f1d8fdca7003b8001ca
+run_name: bold-wasp-143
+run_uuid: 2e0268eb313b4f1d8fdca7003b8001ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499064480
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/c016bcc51e094ec286f0d09fe12b51f4/artifacts
+end_time: 1729499063799
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: c016bcc51e094ec286f0d09fe12b51f4
+run_name: unleashed-conch-562
+run_uuid: c016bcc51e094ec286f0d09fe12b51f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499063641
+status: 3
+tags: []
+user_id: sprakash90

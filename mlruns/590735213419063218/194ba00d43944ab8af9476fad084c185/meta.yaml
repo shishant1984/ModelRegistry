@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/194ba00d43944ab8af9476fad084c185/artifacts
+end_time: 1729499065210
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 194ba00d43944ab8af9476fad084c185
+run_name: treasured-foal-167
+run_uuid: 194ba00d43944ab8af9476fad084c185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499065062
+status: 3
+tags: []
+user_id: sprakash90

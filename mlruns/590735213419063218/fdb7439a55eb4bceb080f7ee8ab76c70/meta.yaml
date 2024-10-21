@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/fdb7439a55eb4bceb080f7ee8ab76c70/artifacts
+end_time: 1729499065396
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: fdb7439a55eb4bceb080f7ee8ab76c70
+run_name: glamorous-skunk-609
+run_uuid: fdb7439a55eb4bceb080f7ee8ab76c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499065236
+status: 3
+tags: []
+user_id: sprakash90

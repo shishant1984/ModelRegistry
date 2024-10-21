@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/5689e5ceb86d45f49f16552e36facc2b/artifacts
+end_time: 1729499062144
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 5689e5ceb86d45f49f16552e36facc2b
+run_name: thoughtful-seal-991
+run_uuid: 5689e5ceb86d45f49f16552e36facc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499061997
+status: 3
+tags: []
+user_id: sprakash90

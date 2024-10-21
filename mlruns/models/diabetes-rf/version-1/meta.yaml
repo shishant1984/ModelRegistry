@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1729498375462
+current_stage: Archived
+description: This is a RandomForest model trained to predict diabetes outcomes based
+  on Pima Indians Diabetes Dataset.
+last_updated_timestamp: 1729499156686
+name: diabetes-rf
+run_id: 4f1ddede789f48588a67df3db48b8667
+run_link: null
+source: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/4f1ddede789f48588a67df3db48b8667/artifacts/file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/4f1ddede789f48588a67df3db48b8667/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/4f1ddede789f48588a67df3db48b8667/artifacts/file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/4f1ddede789f48588a67df3db48b8667/artifacts/random_forest
+user_id: null
+version: 1

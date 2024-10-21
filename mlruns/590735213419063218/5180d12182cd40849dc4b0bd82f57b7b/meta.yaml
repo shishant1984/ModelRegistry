@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/5180d12182cd40849dc4b0bd82f57b7b/artifacts
+end_time: 1729499063442
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 5180d12182cd40849dc4b0bd82f57b7b
+run_name: glamorous-croc-78
+run_uuid: 5180d12182cd40849dc4b0bd82f57b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499063307
+status: 3
+tags: []
+user_id: sprakash90

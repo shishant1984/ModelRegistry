@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/aca9c7671c6b44bdab8be49b508a7003/artifacts
+end_time: 1729499063608
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: aca9c7671c6b44bdab8be49b508a7003
+run_name: redolent-frog-770
+run_uuid: aca9c7671c6b44bdab8be49b508a7003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499063473
+status: 3
+tags: []
+user_id: sprakash90

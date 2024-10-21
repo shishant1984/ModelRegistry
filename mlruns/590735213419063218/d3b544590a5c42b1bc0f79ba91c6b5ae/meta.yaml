@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/d3b544590a5c42b1bc0f79ba91c6b5ae/artifacts
+end_time: 1729499063989
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: d3b544590a5c42b1bc0f79ba91c6b5ae
+run_name: bemused-sow-361
+run_uuid: d3b544590a5c42b1bc0f79ba91c6b5ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499063832
+status: 3
+tags: []
+user_id: sprakash90

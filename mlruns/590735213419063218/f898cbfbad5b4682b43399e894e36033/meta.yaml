@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/f898cbfbad5b4682b43399e894e36033/artifacts
+end_time: 1729499063125
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: f898cbfbad5b4682b43399e894e36033
+run_name: stylish-shrew-369
+run_uuid: f898cbfbad5b4682b43399e894e36033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499063003
+status: 3
+tags: []
+user_id: sprakash90

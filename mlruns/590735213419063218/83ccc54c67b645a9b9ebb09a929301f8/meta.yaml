@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/83ccc54c67b645a9b9ebb09a929301f8/artifacts
+end_time: 1729499062481
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 83ccc54c67b645a9b9ebb09a929301f8
+run_name: bald-koi-939
+run_uuid: 83ccc54c67b645a9b9ebb09a929301f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499062343
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/07d182f37c4b4128b2c52e6f08ee8eb1/artifacts
+end_time: 1729499064286
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 07d182f37c4b4128b2c52e6f08ee8eb1
+run_name: aged-finch-610
+run_uuid: 07d182f37c4b4128b2c52e6f08ee8eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499064163
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/9f34949a538649a58e2cca1faaafb532/artifacts
+end_time: 1729499062316
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 9f34949a538649a58e2cca1faaafb532
+run_name: mysterious-grub-952
+run_uuid: 9f34949a538649a58e2cca1faaafb532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499062170
+status: 3
+tags: []
+user_id: sprakash90

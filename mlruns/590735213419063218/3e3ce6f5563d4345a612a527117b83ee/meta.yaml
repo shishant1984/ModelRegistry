@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/3e3ce6f5563d4345a612a527117b83ee/artifacts
+end_time: 1729499062983
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 3e3ce6f5563d4345a612a527117b83ee
+run_name: efficient-boar-73
+run_uuid: 3e3ce6f5563d4345a612a527117b83ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499062843
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/a20dd5a6a3734ee3ad2af90ee50d3e74/artifacts
+end_time: 1729499061814
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: a20dd5a6a3734ee3ad2af90ee50d3e74
+run_name: shivering-sow-613
+run_uuid: a20dd5a6a3734ee3ad2af90ee50d3e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499061676
+status: 3
+tags: []
+user_id: sprakash90

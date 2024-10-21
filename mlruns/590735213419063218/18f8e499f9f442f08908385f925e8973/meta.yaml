@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/18f8e499f9f442f08908385f925e8973/artifacts
+end_time: 1729499065033
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 18f8e499f9f442f08908385f925e8973
+run_name: amazing-slug-872
+run_uuid: 18f8e499f9f442f08908385f925e8973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499064866
+status: 3
+tags: []
+user_id: sprakash90
