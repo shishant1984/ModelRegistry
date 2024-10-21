@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/c357e7c6f17c4eff8d817cf6e6ab177c/artifacts
+end_time: 1729497079683
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: c357e7c6f17c4eff8d817cf6e6ab177c
+run_name: smiling-swan-608
+run_uuid: c357e7c6f17c4eff8d817cf6e6ab177c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497045800
+status: 3
+tags: []
+user_id: sprakash90

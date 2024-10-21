@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/f1c4fcc1d3494305a2ab49fd29ada390/artifacts
+end_time: 1729498172242
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: f1c4fcc1d3494305a2ab49fd29ada390
+run_name: sassy-newt-381
+run_uuid: f1c4fcc1d3494305a2ab49fd29ada390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729498172128
+status: 3
+tags: []
+user_id: sprakash90

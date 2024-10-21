@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/6718142daf21420880a70669a474bfa6/artifacts
+end_time: 1729497063730
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 6718142daf21420880a70669a474bfa6
+run_name: stylish-panda-293
+run_uuid: 6718142daf21420880a70669a474bfa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497063624
+status: 3
+tags: []
+user_id: sprakash90

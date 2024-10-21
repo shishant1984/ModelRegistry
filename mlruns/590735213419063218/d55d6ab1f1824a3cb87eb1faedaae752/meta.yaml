@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/d55d6ab1f1824a3cb87eb1faedaae752/artifacts
+end_time: 1729498173241
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: d55d6ab1f1824a3cb87eb1faedaae752
+run_name: stately-carp-11
+run_uuid: d55d6ab1f1824a3cb87eb1faedaae752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729498173136
+status: 3
+tags: []
+user_id: sprakash90

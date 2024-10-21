@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/a9190bc85a9f4252a0a45b0bb8d6e3a4/artifacts
+end_time: 1729497063463
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: a9190bc85a9f4252a0a45b0bb8d6e3a4
+run_name: delightful-wasp-656
+run_uuid: a9190bc85a9f4252a0a45b0bb8d6e3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497063337
+status: 3
+tags: []
+user_id: sprakash90

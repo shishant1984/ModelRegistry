@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/e1fdb55693d34d1792880af49040d705/artifacts
+end_time: 1729497063071
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: e1fdb55693d34d1792880af49040d705
+run_name: gifted-squirrel-525
+run_uuid: e1fdb55693d34d1792880af49040d705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497062934
+status: 3
+tags: []
+user_id: sprakash90

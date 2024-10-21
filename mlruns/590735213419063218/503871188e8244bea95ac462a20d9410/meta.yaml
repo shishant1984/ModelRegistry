@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/503871188e8244bea95ac462a20d9410/artifacts
+end_time: 1729497061470
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 503871188e8244bea95ac462a20d9410
+run_name: secretive-deer-510
+run_uuid: 503871188e8244bea95ac462a20d9410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497061266
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/184cd16d68744a9d936b6c904721789f/artifacts
+end_time: 1729498173571
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 184cd16d68744a9d936b6c904721789f
+run_name: upset-newt-850
+run_uuid: 184cd16d68744a9d936b6c904721789f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729498173468
+status: 3
+tags: []
+user_id: sprakash90

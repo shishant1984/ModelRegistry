@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/100cc4a2b24640b188cea9ee25926802/artifacts
+end_time: 1729497061755
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 100cc4a2b24640b188cea9ee25926802
+run_name: honorable-ant-921
+run_uuid: 100cc4a2b24640b188cea9ee25926802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497061508
+status: 3
+tags: []
+user_id: sprakash90

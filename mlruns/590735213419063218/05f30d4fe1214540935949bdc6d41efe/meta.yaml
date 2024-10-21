@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/05f30d4fe1214540935949bdc6d41efe/artifacts
+end_time: 1729497063203
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 05f30d4fe1214540935949bdc6d41efe
+run_name: beautiful-tern-902
+run_uuid: 05f30d4fe1214540935949bdc6d41efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497063090
+status: 3
+tags: []
+user_id: sprakash90

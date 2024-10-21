@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/477b7d35d9a647b48d1ed37b351e285f/artifacts
+end_time: 1729497063602
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 477b7d35d9a647b48d1ed37b351e285f
+run_name: wise-turtle-843
+run_uuid: 477b7d35d9a647b48d1ed37b351e285f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729497063485
+status: 3
+tags: []
+user_id: sprakash90

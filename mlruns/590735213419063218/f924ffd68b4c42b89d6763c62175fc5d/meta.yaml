@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/f924ffd68b4c42b89d6763c62175fc5d/artifacts
+end_time: 1729498171788
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: f924ffd68b4c42b89d6763c62175fc5d
+run_name: carefree-auk-249
+run_uuid: f924ffd68b4c42b89d6763c62175fc5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729498171700
+status: 3
+tags: []
+user_id: sprakash90

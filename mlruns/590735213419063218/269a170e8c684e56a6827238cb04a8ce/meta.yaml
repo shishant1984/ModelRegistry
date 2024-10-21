@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sprakash90/DataS/MLflow/ModelRegistry/mlruns/590735213419063218/269a170e8c684e56a6827238cb04a8ce/artifacts
+end_time: 1729498171686
+entry_point_name: ''
+experiment_id: '590735213419063218'
+lifecycle_stage: active
+run_id: 269a170e8c684e56a6827238cb04a8ce
+run_name: monumental-loon-723
+run_uuid: 269a170e8c684e56a6827238cb04a8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729498171594
+status: 3
+tags: []
+user_id: sprakash90
